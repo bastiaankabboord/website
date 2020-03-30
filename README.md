@@ -1,2 +1,3 @@
-# website
-bastiaankabboord.nl website
+# My personal blog
+
+### bastiaankabboord.nl
